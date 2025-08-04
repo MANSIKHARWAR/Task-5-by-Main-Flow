@@ -19,9 +19,5 @@
 4. Run Apache & MySQL in XAMPP.
 5. Access via [http://localhost/products_manage](http://localhost/products_manage).
 
-## Output Screenshots
-(Add screenshots here)
-
 ---
 
-**LinkedIn Post:** See my full post on LinkedIn to know about my learning experience.
